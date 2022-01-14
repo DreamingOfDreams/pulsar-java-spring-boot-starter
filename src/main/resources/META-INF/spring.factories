@@ -1,1 +1,2 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=io.github.majusko.pulsar.PulsarAutoConfiguration
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  io.github.majusko.pulsar.PulsarAutoConfiguration

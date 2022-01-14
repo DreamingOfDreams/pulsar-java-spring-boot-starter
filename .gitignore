@@ -34,3 +34,8 @@ build/
 .DS_Store
 
 my-settings.xml
+
+#gradle
+settings.gradle
+build.gradle
+.gradle
